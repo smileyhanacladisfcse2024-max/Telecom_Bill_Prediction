@@ -1,0 +1,1981 @@
+customer_id,tenure,previous_bill,data_gb,call_minutes,avg_usage_score,next_bill,operator_Airtel,operator_BSNL,operator_Jio,operator_Vi,plan_type_Postpaid,plan_type_Prepaid,paid_status_Paid,paid_status_Unpaid,predicted_bill,bill_drop,drop_flag,offer,email
+CUST27,63,1278,1,1136,5.144,1312.8,False,False,True,False,False,True,True,False,1316.2255000000011,-38.22550000000115,True,Entertainment Add-on,"
+Hello CUST27,
+
+Your next bill is expected to reduce.
+
+Recommended Offer:
+Entertainment Add-on
+
+Thank you,
+Telecom Team
+"
+CUST46,17,467,1,840,3.96,484.0,True,False,False,False,True,False,True,False,511.8639999999999,-44.86399999999992,True,Postpaid Loyalty Pack,"
+Hello CUST46,
+
+Your next bill is expected to reduce.
+
+Recommended Offer:
+Postpaid Loyalty Pack
+
+Thank you,
+Telecom Team
+"
+CUST97,32,1038,11,420,8.28,1000.0,False,True,False,False,False,True,True,False,1058.6005000000002,-20.60050000000024,True,Entertainment Add-on,"
+Hello CUST97,
+
+Your next bill is expected to reduce.
+
+Recommended Offer:
+Entertainment Add-on
+
+Thank you,
+Telecom Team
+"
+CUST120,58,1661,7,569,6.476000000000001,1683.45,False,False,False,True,False,True,True,False,1705.2965000000013,-44.29650000000129,True,Entertainment Add-on,"
+Hello CUST120,
+
+Your next bill is expected to reduce.
+
+Recommended Offer:
+Entertainment Add-on
+
+Thank you,
+Telecom Team
+"
+CUST133,1,1507,5,246,3.984,1444.3,False,True,False,False,False,True,True,False,1464.1930000000011,42.80699999999888,True,Entertainment Add-on,"
+Hello CUST133,
+
+Your next bill is expected to reduce.
+
+Recommended Offer:
+Entertainment Add-on
+
+Thank you,
+Telecom Team
+"
+CUST177,20,1623,13,316,9.064,1639.8,False,False,False,True,True,False,True,False,1672.336499999999,-49.33649999999898,True,Postpaid Loyalty Pack,"
+Hello CUST177,
+
+Your next bill is expected to reduce.
+
+Recommended Offer:
+Postpaid Loyalty Pack
+
+Thank you,
+Telecom Team
+"
+CUST207,8,1401,1,813,3.8520000000000008,1404.65,False,True,False,False,False,True,True,False,1408.585499999998,-7.585499999998092,True,Entertainment Add-on,"
+Hello CUST207,
+
+Your next bill is expected to reduce.
+
+Recommended Offer:
+Entertainment Add-on
+
+Thank you,
+Telecom Team
+"
+CUST215,49,1493,24,53,14.611999999999998,1481.65,False,False,False,True,False,True,True,False,1529.7554999999986,-36.75549999999862,True,Entertainment Add-on,"
+Hello CUST215,
+
+Your next bill is expected to reduce.
+
+Recommended Offer:
+Entertainment Add-on
+
+Thank you,
+Telecom Team
+"
+CUST328,49,1822,23,323,15.092,1803.15,True,False,False,False,True,False,False,True,1867.2684999999967,-45.26849999999672,True,Postpaid Loyalty Pack,"
+Hello CUST328,
+
+Your next bill is expected to reduce.
+
+Recommended Offer:
+Postpaid Loyalty Pack
+
+Thank you,
+Telecom Team
+"
+CUST401,46,711,12,158,7.831999999999999,669.9,True,False,False,False,True,False,False,True,737.9655000000004,-26.96550000000036,True,Postpaid Loyalty Pack,"
+Hello CUST401,
+
+Your next bill is expected to reduce.
+
+Recommended Offer:
+Postpaid Loyalty Pack
+
+Thank you,
+Telecom Team
+"
+CUST438,52,1848,1,1196,5.384,1899.8,True,False,False,False,False,True,True,False,1884.3859999999984,-36.385999999998376,True,Entertainment Add-on,"
+Hello CUST438,
+
+Your next bill is expected to reduce.
+
+Recommended Offer:
+Entertainment Add-on
+
+Thank you,
+Telecom Team
+"
+CUST540,28,695,4,421,4.084,734.05,False,True,False,False,False,True,False,True,743.2875000000006,-48.28750000000059,True,Bill Reminder + Discount,"
+Hello CUST540,
+
+Your next bill is expected to reduce.
+
+Recommended Offer:
+Bill Reminder + Discount
+
+Thank you,
+Telecom Team
+"
+CUST578,7,865,4,771,5.484,796.55,True,False,False,False,False,True,False,True,864.6700000000013,0.3299999999986767,True,Bill Reminder + Discount,"
+Hello CUST578,
+
+Your next bill is expected to reduce.
+
+Recommended Offer:
+Bill Reminder + Discount
+
+Thank you,
+Telecom Team
+"
+CUST629,46,373,13,1175,12.5,356.75,False,True,False,False,True,False,False,True,405.5405,-32.54050000000001,True,Postpaid Loyalty Pack,"
+Hello CUST629,
+
+Your next bill is expected to reduce.
+
+Recommended Offer:
+Postpaid Loyalty Pack
+
+Thank you,
+Telecom Team
+"
+CUST635,3,1151,13,1111,12.244,1133.55,False,True,False,False,False,True,True,False,1195.3725000000013,-44.37250000000131,True,Entertainment Add-on,"
+Hello CUST635,
+
+Your next bill is expected to reduce.
+
+Recommended Offer:
+Entertainment Add-on
+
+Thank you,
+Telecom Team
+"
+CUST664,29,1235,8,811,8.044,1247.55,True,False,False,False,False,True,False,True,1273.1220000000014,-38.122000000001435,True,Bill Reminder + Discount,"
+Hello CUST664,
+
+Your next bill is expected to reduce.
+
+Recommended Offer:
+Bill Reminder + Discount
+
+Thank you,
+Telecom Team
+"
+CUST670,66,1121,12,954,11.016,1095.7,True,False,False,False,False,True,True,False,1129.2254999999989,-8.225499999998874,True,Entertainment Add-on,"
+Hello CUST670,
+
+Your next bill is expected to reduce.
+
+Recommended Offer:
+Entertainment Add-on
+
+Thank you,
+Telecom Team
+"
+CUST807,5,542,8,22,4.888,509.1,False,True,False,False,False,True,True,False,548.9969999999995,-6.9969999999995025,True,Entertainment Add-on,"
+Hello CUST807,
+
+Your next bill is expected to reduce.
+
+Recommended Offer:
+Entertainment Add-on
+
+Thank you,
+Telecom Team
+"
+CUST878,40,1718,16,305,10.82,1668.25,True,False,False,False,False,True,True,False,1714.9875,3.0125000000000455,True,Entertainment Add-on,"
+Hello CUST878,
+
+Your next bill is expected to reduce.
+
+Recommended Offer:
+Entertainment Add-on
+
+Thank you,
+Telecom Team
+"
+CUST1037,69,612,1,739,3.5560000000000005,540.95,False,True,False,False,True,False,False,True,598.2234999999993,13.776500000000738,True,Postpaid Loyalty Pack,"
+Hello CUST1037,
+
+Your next bill is expected to reduce.
+
+Recommended Offer:
+Postpaid Loyalty Pack
+
+Thank you,
+Telecom Team
+"
+CUST1120,23,228,14,694,11.176,190.7,False,True,False,False,True,False,True,False,231.35800000000023,-3.3580000000002315,True,Postpaid Loyalty Pack,"
+Hello CUST1120,
+
+Your next bill is expected to reduce.
+
+Recommended Offer:
+Postpaid Loyalty Pack
+
+Thank you,
+Telecom Team
+"
+CUST1135,21,1143,8,1169,9.476,1100.45,False,False,True,False,False,True,True,False,1161.498999999999,-18.498999999998887,True,Entertainment Add-on,"
+Hello CUST1135,
+
+Your next bill is expected to reduce.
+
+Recommended Offer:
+Entertainment Add-on
+
+Thank you,
+Telecom Team
+"
+CUST1236,70,1732,16,420,11.28,1715.0,False,True,False,False,False,True,True,False,1758.8600000000006,-26.860000000000582,True,Entertainment Add-on,"
+Hello CUST1236,
+
+Your next bill is expected to reduce.
+
+Recommended Offer:
+Entertainment Add-on
+
+Thank you,
+Telecom Team
+"
+CUST1388,41,906,3,59,2.036,941.95,False,True,False,False,True,False,True,False,954.565499999999,-48.56549999999902,True,Postpaid Loyalty Pack,"
+Hello CUST1388,
+
+Your next bill is expected to reduce.
+
+Recommended Offer:
+Postpaid Loyalty Pack
+
+Thank you,
+Telecom Team
+"
+CUST1411,40,982,3,2349,11.196000000000002,968.45,False,False,True,False,True,False,False,True,1010.3884999999988,-28.38849999999877,True,Postpaid Loyalty Pack,"
+Hello CUST1411,
+
+Your next bill is expected to reduce.
+
+Recommended Offer:
+Postpaid Loyalty Pack
+
+Thank you,
+Telecom Team
+"
+CUST1453,19,1293,2,2190,9.96,1486.5,False,False,False,True,True,False,False,True,1325.2515000000003,-32.251500000000306,True,Postpaid Loyalty Pack,"
+Hello CUST1453,
+
+Your next bill is expected to reduce.
+
+Recommended Offer:
+Postpaid Loyalty Pack
+
+Thank you,
+Telecom Team
+"
+CUST1459,51,453,11,786,9.744,424.3,False,False,True,False,False,True,True,False,474.92800000000017,-21.928000000000168,True,Entertainment Add-on,"
+Hello CUST1459,
+
+Your next bill is expected to reduce.
+
+Recommended Offer:
+Entertainment Add-on
+
+Thank you,
+Telecom Team
+"
+CUST1471,55,1912,1,2192,9.368,1891.6,False,False,True,False,False,True,False,True,1948.9160000000015,-36.91600000000153,True,Bill Reminder + Discount,"
+Hello CUST1471,
+
+Your next bill is expected to reduce.
+
+Recommended Offer:
+Bill Reminder + Discount
+
+Thank you,
+Telecom Team
+"
+CUST1477,52,1140,8,287,5.948,1156.35,True,False,False,False,False,True,True,False,1184.8900000000012,-44.89000000000124,True,Entertainment Add-on,"
+Hello CUST1477,
+
+Your next bill is expected to reduce.
+
+Recommended Offer:
+Entertainment Add-on
+
+Thank you,
+Telecom Team
+"
+CUST1497,32,345,12,480,9.12,294.0,False,False,False,True,False,True,False,True,345.3924999999999,-0.39249999999992724,True,Bill Reminder + Discount,"
+Hello CUST1497,
+
+Your next bill is expected to reduce.
+
+Recommended Offer:
+Bill Reminder + Discount
+
+Thank you,
+Telecom Team
+"
+CUST1533,10,656,5,364,4.456,628.2,False,False,False,True,False,True,True,False,662.1794999999993,-6.17949999999928,True,Entertainment Add-on,"
+Hello CUST1533,
+
+Your next bill is expected to reduce.
+
+Recommended Offer:
+Entertainment Add-on
+
+Thank you,
+Telecom Team
+"
+CUST1625,60,1775,2,572,3.4880000000000004,1720.6,True,False,False,False,False,True,True,False,1774.8180000000025,0.18199999999751526,True,Entertainment Add-on,"
+Hello CUST1625,
+
+Your next bill is expected to reduce.
+
+Recommended Offer:
+Entertainment Add-on
+
+Thank you,
+Telecom Team
+"
+CUST1726,16,1517,4,42,2.568,1652.1,False,False,False,True,False,True,True,False,1503.018000000001,13.981999999999061,True,Entertainment Add-on,"
+Hello CUST1726,
+
+Your next bill is expected to reduce.
+
+Recommended Offer:
+Entertainment Add-on
+
+Thank you,
+Telecom Team
+"
+CUST1764,13,492,13,115,8.26,450.75,False,True,False,False,True,False,False,True,478.59349999999984,13.406500000000165,True,Postpaid Loyalty Pack,"
+Hello CUST1764,
+
+Your next bill is expected to reduce.
+
+Recommended Offer:
+Postpaid Loyalty Pack
+
+Thank you,
+Telecom Team
+"
+CUST1790,62,1645,5,1868,10.472,1671.4,False,False,False,True,False,True,False,True,1692.716999999998,-47.71699999999805,True,Bill Reminder + Discount,"
+Hello CUST1790,
+
+Your next bill is expected to reduce.
+
+Recommended Offer:
+Bill Reminder + Discount
+
+Thank you,
+Telecom Team
+"
+CUST1811,47,625,11,266,7.664,654.3,False,True,False,False,False,True,True,False,666.4635000000007,-41.46350000000075,True,Entertainment Add-on,"
+Hello CUST1811,
+
+Your next bill is expected to reduce.
+
+Recommended Offer:
+Entertainment Add-on
+
+Thank you,
+Telecom Team
+"
+CUST1816,35,1016,3,765,4.859999999999999,1015.25,False,True,False,False,True,False,True,False,1062.3044999999995,-46.30449999999951,True,Postpaid Loyalty Pack,"
+Hello CUST1816,
+
+Your next bill is expected to reduce.
+
+Recommended Offer:
+Postpaid Loyalty Pack
+
+Thank you,
+Telecom Team
+"
+CUST1820,36,618,14,85,8.74,616.25,True,False,False,False,False,True,False,True,646.5050000000001,-28.50500000000011,True,Bill Reminder + Discount,"
+Hello CUST1820,
+
+Your next bill is expected to reduce.
+
+Recommended Offer:
+Bill Reminder + Discount
+
+Thank you,
+Telecom Team
+"
+CUST1850,2,319,7,1030,8.32,313.5,True,False,False,False,False,True,True,False,346.9885,-27.988499999999988,True,Entertainment Add-on,"
+Hello CUST1850,
+
+Your next bill is expected to reduce.
+
+Recommended Offer:
+Entertainment Add-on
+
+Thank you,
+Telecom Team
+"
+CUST1907,18,1022,13,352,9.208,1027.6,False,True,False,False,True,False,True,False,1070.264500000001,-48.26450000000091,True,Postpaid Loyalty Pack,"
+Hello CUST1907,
+
+Your next bill is expected to reduce.
+
+Recommended Offer:
+Postpaid Loyalty Pack
+
+Thank you,
+Telecom Team
+"
+CUST1914,57,1389,2,412,2.848,1345.6,True,False,False,False,False,True,True,False,1377.4110000000014,11.588999999998578,True,Entertainment Add-on,"
+Hello CUST1914,
+
+Your next bill is expected to reduce.
+
+Recommended Offer:
+Entertainment Add-on
+
+Thank you,
+Telecom Team
+"
+CUST1975,48,1860,9,861,8.844,1875.05,False,True,False,False,True,False,False,True,1869.900499999999,-9.900499999999056,True,Postpaid Loyalty Pack,"
+Hello CUST1975,
+
+Your next bill is expected to reduce.
+
+Recommended Offer:
+Postpaid Loyalty Pack
+
+Thank you,
+Telecom Team
+"
+CUST2160,50,1993,17,161,10.844,1995.05,True,False,False,False,True,False,True,False,2016.8449999999975,-23.844999999997526,True,Postpaid Loyalty Pack,"
+Hello CUST2160,
+
+Your next bill is expected to reduce.
+
+Recommended Offer:
+Postpaid Loyalty Pack
+
+Thank you,
+Telecom Team
+"
+CUST2169,47,996,7,570,6.48,1003.5,False,True,False,False,False,True,False,True,1038.8660000000002,-42.86600000000021,True,Bill Reminder + Discount,"
+Hello CUST2169,
+
+Your next bill is expected to reduce.
+
+Recommended Offer:
+Bill Reminder + Discount
+
+Thank you,
+Telecom Team
+"
+CUST2250,43,1772,11,616,9.064,1781.8,True,False,False,False,True,False,True,False,1792.0124999999994,-20.012499999999363,True,Postpaid Loyalty Pack,"
+Hello CUST2250,
+
+Your next bill is expected to reduce.
+
+Recommended Offer:
+Postpaid Loyalty Pack
+
+Thank you,
+Telecom Team
+"
+CUST2330,18,211,9,383,6.932,134.14999999999998,True,False,False,False,False,True,True,False,212.3240000000001,-1.3240000000000975,True,Entertainment Add-on,"
+Hello CUST2330,
+
+Your next bill is expected to reduce.
+
+Recommended Offer:
+Entertainment Add-on
+
+Thank you,
+Telecom Team
+"
+CUST2373,49,376,18,288,11.951999999999998,338.4,True,False,False,False,False,True,True,False,394.1080000000005,-18.108000000000516,True,Entertainment Add-on,"
+Hello CUST2373,
+
+Your next bill is expected to reduce.
+
+Recommended Offer:
+Entertainment Add-on
+
+Thank you,
+Telecom Team
+"
+CUST2397,67,286,11,350,8.0,286.5,False,False,True,False,False,True,True,False,300.66599999999994,-14.66599999999994,True,Entertainment Add-on,"
+Hello CUST2397,
+
+Your next bill is expected to reduce.
+
+Recommended Offer:
+Entertainment Add-on
+
+Thank you,
+Telecom Team
+"
+CUST2439,4,1532,9,1178,10.112,1530.9,False,False,True,False,False,True,False,True,1563.2689999999982,-31.268999999998186,True,Bill Reminder + Discount,"
+Hello CUST2439,
+
+Your next bill is expected to reduce.
+
+Recommended Offer:
+Bill Reminder + Discount
+
+Thank you,
+Telecom Team
+"
+CUST2478,10,291,12,1168,11.872,359.4,False,True,False,False,True,False,True,False,331.62550000000005,-40.625500000000045,True,Postpaid Loyalty Pack,"
+Hello CUST2478,
+
+Your next bill is expected to reduce.
+
+Recommended Offer:
+Postpaid Loyalty Pack
+
+Thank you,
+Telecom Team
+"
+CUST2481,65,380,15,188,9.752,424.4,False,True,False,False,False,True,True,False,428.85600000000056,-48.85600000000056,True,Entertainment Add-on,"
+Hello CUST2481,
+
+Your next bill is expected to reduce.
+
+Recommended Offer:
+Entertainment Add-on
+
+Thank you,
+Telecom Team
+"
+CUST2535,2,910,10,356,7.424,913.8,False,False,True,False,True,False,False,True,941.0090000000008,-31.00900000000081,True,Postpaid Loyalty Pack,"
+Hello CUST2535,
+
+Your next bill is expected to reduce.
+
+Recommended Offer:
+Postpaid Loyalty Pack
+
+Thank you,
+Telecom Team
+"
+CUST2556,64,1840,8,1082,9.128,1836.1,True,False,False,False,False,True,False,True,1841.569500000002,-1.5695000000021082,True,Bill Reminder + Discount,"
+Hello CUST2556,
+
+Your next bill is expected to reduce.
+
+Recommended Offer:
+Bill Reminder + Discount
+
+Thank you,
+Telecom Team
+"
+CUST2656,40,779,2,1685,7.94,748.25,False,False,False,True,True,False,False,True,806.3560000000001,-27.35600000000011,True,Postpaid Loyalty Pack,"
+Hello CUST2656,
+
+Your next bill is expected to reduce.
+
+Recommended Offer:
+Postpaid Loyalty Pack
+
+Thank you,
+Telecom Team
+"
+CUST2687,18,1079,4,1534,8.536,1139.7,False,True,False,False,True,False,False,True,1118.4629999999988,-39.46299999999883,True,Postpaid Loyalty Pack,"
+Hello CUST2687,
+
+Your next bill is expected to reduce.
+
+Recommended Offer:
+Postpaid Loyalty Pack
+
+Thank you,
+Telecom Team
+"
+CUST2732,12,1871,4,1673,9.092,1999.65,False,False,True,False,False,True,False,True,1904.4119999999996,-33.41199999999958,True,Bill Reminder + Discount,"
+Hello CUST2732,
+
+Your next bill is expected to reduce.
+
+Recommended Offer:
+Bill Reminder + Discount
+
+Thank you,
+Telecom Team
+"
+CUST2755,1,1146,2,1336,6.544,1106.8,False,True,False,False,True,False,False,True,1166.256500000001,-20.256500000001097,True,Postpaid Loyalty Pack,"
+Hello CUST2755,
+
+Your next bill is expected to reduce.
+
+Recommended Offer:
+Postpaid Loyalty Pack
+
+Thank you,
+Telecom Team
+"
+CUST2866,62,1236,9,1300,10.6,1268.0,False,False,False,True,False,True,False,True,1283.5695,-47.56950000000006,True,Bill Reminder + Discount,"
+Hello CUST2866,
+
+Your next bill is expected to reduce.
+
+Recommended Offer:
+Bill Reminder + Discount
+
+Thank you,
+Telecom Team
+"
+CUST3061,54,201,2,72,1.488,121.6,False,False,False,True,True,False,True,False,208.4869999999998,-7.486999999999796,True,Postpaid Loyalty Pack,"
+Hello CUST3061,
+
+Your next bill is expected to reduce.
+
+Recommended Offer:
+Postpaid Loyalty Pack
+
+Thank you,
+Telecom Team
+"
+CUST3268,40,1494,4,157,3.028,1435.85,False,True,False,False,False,True,True,False,1455.6025000000022,38.39749999999776,True,Entertainment Add-on,"
+Hello CUST3268,
+
+Your next bill is expected to reduce.
+
+Recommended Offer:
+Entertainment Add-on
+
+Thank you,
+Telecom Team
+"
+CUST3269,21,1288,5,486,4.944,1221.3,False,False,False,True,False,True,False,True,1277.827500000001,10.17249999999899,True,Bill Reminder + Discount,"
+Hello CUST3269,
+
+Your next bill is expected to reduce.
+
+Recommended Offer:
+Bill Reminder + Discount
+
+Thank you,
+Telecom Team
+"
+CUST3515,64,462,10,298,7.192,503.9,False,True,False,False,False,True,False,True,502.2140000000005,-40.21400000000051,True,Bill Reminder + Discount,"
+Hello CUST3515,
+
+Your next bill is expected to reduce.
+
+Recommended Offer:
+Bill Reminder + Discount
+
+Thank you,
+Telecom Team
+"
+CUST3575,71,1811,3,1919,9.476,1829.95,False,False,False,True,True,False,False,True,1842.616000000001,-31.616000000000895,True,Postpaid Loyalty Pack,"
+Hello CUST3575,
+
+Your next bill is expected to reduce.
+
+Recommended Offer:
+Postpaid Loyalty Pack
+
+Thank you,
+Telecom Team
+"
+CUST3576,21,1090,10,1235,10.94,1083.75,False,False,False,True,True,False,False,True,1125.7424999999998,-35.742499999999836,True,Postpaid Loyalty Pack,"
+Hello CUST3576,
+
+Your next bill is expected to reduce.
+
+Recommended Offer:
+Postpaid Loyalty Pack
+
+Thank you,
+Telecom Team
+"
+CUST3584,49,658,7,2414,13.856000000000002,678.7,False,True,False,False,True,False,True,False,706.9514999999991,-48.9514999999991,True,Postpaid Loyalty Pack,"
+Hello CUST3584,
+
+Your next bill is expected to reduce.
+
+Recommended Offer:
+Postpaid Loyalty Pack
+
+Thank you,
+Telecom Team
+"
+CUST3618,1,750,4,1103,6.812000000000001,690.15,True,False,False,False,False,True,True,False,749.0060000000001,0.9939999999999145,True,Entertainment Add-on,"
+Hello CUST3618,
+
+Your next bill is expected to reduce.
+
+Recommended Offer:
+Entertainment Add-on
+
+Thank you,
+Telecom Team
+"
+CUST3702,29,486,6,684,6.336,405.2000000000001,False,False,True,False,False,True,False,True,461.6239999999996,24.376000000000374,True,Bill Reminder + Discount,"
+Hello CUST3702,
+
+Your next bill is expected to reduce.
+
+Recommended Offer:
+Bill Reminder + Discount
+
+Thank you,
+Telecom Team
+"
+CUST3783,63,663,16,352,11.008,650.6,False,False,False,True,True,False,True,False,677.5639999999996,-14.563999999999623,True,Postpaid Loyalty Pack,"
+Hello CUST3783,
+
+Your next bill is expected to reduce.
+
+Recommended Offer:
+Postpaid Loyalty Pack
+
+Thank you,
+Telecom Team
+"
+CUST3864,26,1466,3,343,3.172,1507.15,False,False,False,True,False,True,False,True,1485.883999999999,-19.883999999999105,True,Bill Reminder + Discount,"
+Hello CUST3864,
+
+Your next bill is expected to reduce.
+
+Recommended Offer:
+Bill Reminder + Discount
+
+Thank you,
+Telecom Team
+"
+CUST4000,27,595,1,64,0.856,522.2,False,False,True,False,True,False,True,False,574.4764999999994,20.52350000000058,True,Postpaid Loyalty Pack,"
+Hello CUST4000,
+
+Your next bill is expected to reduce.
+
+Recommended Offer:
+Postpaid Loyalty Pack
+
+Thank you,
+Telecom Team
+"
+CUST4235,54,1103,3,1274,6.896,1042.7,False,False,True,False,False,True,True,False,1068.8239999999987,34.176000000001295,True,Entertainment Add-on,"
+Hello CUST4235,
+
+Your next bill is expected to reduce.
+
+Recommended Offer:
+Entertainment Add-on
+
+Thank you,
+Telecom Team
+"
+CUST4303,64,261,14,1481,14.324,263.05,False,True,False,False,False,True,True,False,305.9494999999997,-44.949499999999716,True,Entertainment Add-on,"
+Hello CUST4303,
+
+Your next bill is expected to reduce.
+
+Recommended Offer:
+Entertainment Add-on
+
+Thank you,
+Telecom Team
+"
+CUST4556,55,381,17,446,11.984,389.3,False,False,False,True,False,True,True,False,403.60950000000025,-22.609500000000253,True,Entertainment Add-on,"
+Hello CUST4556,
+
+Your next bill is expected to reduce.
+
+Recommended Offer:
+Entertainment Add-on
+
+Thank you,
+Telecom Team
+"
+CUST4597,32,1112,3,2093,10.172,1089.65,False,True,False,False,True,False,False,True,1151.9849999999988,-39.98499999999876,True,Postpaid Loyalty Pack,"
+Hello CUST4597,
+
+Your next bill is expected to reduce.
+
+Recommended Offer:
+Postpaid Loyalty Pack
+
+Thank you,
+Telecom Team
+"
+CUST4627,33,1105,17,970,14.079999999999998,1108.5,False,False,False,True,True,False,True,False,1142.8055000000002,-37.805500000000166,True,Postpaid Loyalty Pack,"
+Hello CUST4627,
+
+Your next bill is expected to reduce.
+
+Recommended Offer:
+Postpaid Loyalty Pack
+
+Thank you,
+Telecom Team
+"
+CUST4701,24,1058,8,733,7.731999999999999,1058.65,False,False,True,False,False,True,False,True,1078.0759999999989,-20.075999999998885,True,Bill Reminder + Discount,"
+Hello CUST4701,
+
+Your next bill is expected to reduce.
+
+Recommended Offer:
+Bill Reminder + Discount
+
+Thank you,
+Telecom Team
+"
+CUST4729,60,1928,12,491,9.164,1881.55,False,True,False,False,False,True,False,True,1930.3234999999984,-2.3234999999983756,True,Bill Reminder + Discount,"
+Hello CUST4729,
+
+Your next bill is expected to reduce.
+
+Recommended Offer:
+Bill Reminder + Discount
+
+Thank you,
+Telecom Team
+"
+CUST4742,60,1024,6,756,6.6240000000000006,991.8,False,True,False,False,False,True,True,False,1066.2649999999996,-42.264999999999645,True,Entertainment Add-on,"
+Hello CUST4742,
+
+Your next bill is expected to reduce.
+
+Recommended Offer:
+Entertainment Add-on
+
+Thank you,
+Telecom Team
+"
+CUST4815,59,470,15,374,10.496,416.7000000000001,False,False,True,False,True,False,False,True,476.2684999999996,-6.268499999999619,True,Postpaid Loyalty Pack,"
+Hello CUST4815,
+
+Your next bill is expected to reduce.
+
+Recommended Offer:
+Postpaid Loyalty Pack
+
+Thank you,
+Telecom Team
+"
+CUST4909,40,1772,10,323,7.292,1779.15,False,False,False,True,False,True,True,False,1779.294999999999,-7.294999999998936,True,Entertainment Add-on,"
+Hello CUST4909,
+
+Your next bill is expected to reduce.
+
+Recommended Offer:
+Entertainment Add-on
+
+Thank you,
+Telecom Team
+"
+CUST4915,26,1479,1,495,2.58,1406.75,False,False,False,True,True,False,True,False,1436.3604999999998,42.639500000000226,True,Postpaid Loyalty Pack,"
+Hello CUST4915,
+
+Your next bill is expected to reduce.
+
+Recommended Offer:
+Postpaid Loyalty Pack
+
+Thank you,
+Telecom Team
+"
+CUST5009,61,371,4,294,3.576,365.7,False,False,True,False,True,False,False,True,397.0219999999998,-26.02199999999982,True,Postpaid Loyalty Pack,"
+Hello CUST5009,
+
+Your next bill is expected to reduce.
+
+Recommended Offer:
+Postpaid Loyalty Pack
+
+Thank you,
+Telecom Team
+"
+CUST5262,42,744,15,889,12.556,726.45,True,False,False,False,False,True,False,True,781.1189999999992,-37.11899999999923,True,Bill Reminder + Discount,"
+Hello CUST5262,
+
+Your next bill is expected to reduce.
+
+Recommended Offer:
+Bill Reminder + Discount
+
+Thank you,
+Telecom Team
+"
+CUST5313,56,228,2,441,2.964,119.05,True,False,False,False,True,False,True,False,187.05949999999984,40.940500000000156,True,Postpaid Loyalty Pack,"
+Hello CUST5313,
+
+Your next bill is expected to reduce.
+
+Recommended Offer:
+Postpaid Loyalty Pack
+
+Thank you,
+Telecom Team
+"
+CUST5317,29,1562,7,1499,10.196000000000002,1525.95,False,False,False,True,True,False,True,False,1581.6330000000005,-19.633000000000493,True,Postpaid Loyalty Pack,"
+Hello CUST5317,
+
+Your next bill is expected to reduce.
+
+Recommended Offer:
+Postpaid Loyalty Pack
+
+Thank you,
+Telecom Team
+"
+CUST5369,71,1846,3,1937,9.548000000000002,1820.85,False,True,False,False,False,True,True,False,1836.5635000000025,9.436499999997523,True,Entertainment Add-on,"
+Hello CUST5369,
+
+Your next bill is expected to reduce.
+
+Recommended Offer:
+Entertainment Add-on
+
+Thank you,
+Telecom Team
+"
+CUST5407,42,617,17,1019,14.276,631.95,False,False,False,True,True,False,False,True,658.8699999999991,-41.869999999999095,True,Postpaid Loyalty Pack,"
+Hello CUST5407,
+
+Your next bill is expected to reduce.
+
+Recommended Offer:
+Postpaid Loyalty Pack
+
+Thank you,
+Telecom Team
+"
+CUST5496,17,1775,5,1295,8.18,1735.75,False,False,False,True,True,False,True,False,1786.6184999999998,-11.618499999999813,True,Postpaid Loyalty Pack,"
+Hello CUST5496,
+
+Your next bill is expected to reduce.
+
+Recommended Offer:
+Postpaid Loyalty Pack
+
+Thank you,
+Telecom Team
+"
+CUST5508,21,743,2,293,2.372,652.65,False,True,False,False,False,True,False,True,715.3130000000002,27.686999999999784,True,Bill Reminder + Discount,"
+Hello CUST5508,
+
+Your next bill is expected to reduce.
+
+Recommended Offer:
+Bill Reminder + Discount
+
+Thank you,
+Telecom Team
+"
+CUST5574,9,1946,21,175,13.3,1936.75,False,True,False,False,False,True,False,True,1961.7985,-15.798500000000104,True,Bill Reminder + Discount,"
+Hello CUST5574,
+
+Your next bill is expected to reduce.
+
+Recommended Offer:
+Bill Reminder + Discount
+
+Thank you,
+Telecom Team
+"
+CUST5600,38,1637,3,2279,10.916,1631.95,False,False,False,True,True,False,False,True,1678.642000000001,-41.64200000000096,True,Postpaid Loyalty Pack,"
+Hello CUST5600,
+
+Your next bill is expected to reduce.
+
+Recommended Offer:
+Postpaid Loyalty Pack
+
+Thank you,
+Telecom Team
+"
+CUST5666,9,1839,7,902,7.808,1814.1,False,True,False,False,False,True,True,False,1840.7185000000015,-1.7185000000015407,True,Entertainment Add-on,"
+Hello CUST5666,
+
+Your next bill is expected to reduce.
+
+Recommended Offer:
+Entertainment Add-on
+
+Thank you,
+Telecom Team
+"
+CUST5686,42,587,21,226,13.504,555.3,False,True,False,False,True,False,True,False,601.4030000000009,-14.40300000000093,True,Postpaid Loyalty Pack,"
+Hello CUST5686,
+
+Your next bill is expected to reduce.
+
+Recommended Offer:
+Postpaid Loyalty Pack
+
+Thank you,
+Telecom Team
+"
+CUST5742,40,1050,4,1360,7.84,1082.0,False,True,False,False,True,False,True,False,1084.4730000000004,-34.47300000000041,True,Postpaid Loyalty Pack,"
+Hello CUST5742,
+
+Your next bill is expected to reduce.
+
+Recommended Offer:
+Postpaid Loyalty Pack
+
+Thank you,
+Telecom Team
+"
+CUST5756,46,209,2,746,4.184,139.3,False,False,False,True,True,False,True,False,203.5144999999997,5.485500000000286,True,Postpaid Loyalty Pack,"
+Hello CUST5756,
+
+Your next bill is expected to reduce.
+
+Recommended Offer:
+Postpaid Loyalty Pack
+
+Thank you,
+Telecom Team
+"
+CUST5770,9,1723,9,483,7.332,1870.15,True,False,False,False,True,False,False,True,1763.4674999999995,-40.46749999999952,True,Postpaid Loyalty Pack,"
+Hello CUST5770,
+
+Your next bill is expected to reduce.
+
+Recommended Offer:
+Postpaid Loyalty Pack
+
+Thank you,
+Telecom Team
+"
+CUST5842,66,509,11,777,9.708,510.85,True,False,False,False,False,True,False,True,557.5844999999994,-48.584499999999366,True,Bill Reminder + Discount,"
+Hello CUST5842,
+
+Your next bill is expected to reduce.
+
+Recommended Offer:
+Bill Reminder + Discount
+
+Thank you,
+Telecom Team
+"
+CUST5856,30,1767,11,506,8.623999999999999,1753.3,False,False,True,False,True,False,False,True,1778.0364999999988,-11.036499999998796,True,Postpaid Loyalty Pack,"
+Hello CUST5856,
+
+Your next bill is expected to reduce.
+
+Recommended Offer:
+Postpaid Loyalty Pack
+
+Thank you,
+Telecom Team
+"
+CUST5880,11,501,16,149,10.196,488.4500000000001,False,True,False,False,True,False,True,False,514.2904999999995,-13.290499999999497,True,Postpaid Loyalty Pack,"
+Hello CUST5880,
+
+Your next bill is expected to reduce.
+
+Recommended Offer:
+Postpaid Loyalty Pack
+
+Thank you,
+Telecom Team
+"
+CUST5893,14,1218,7,313,5.452,1195.65,True,False,False,False,True,False,False,True,1251.9744999999984,-33.97449999999844,True,Postpaid Loyalty Pack,"
+Hello CUST5893,
+
+Your next bill is expected to reduce.
+
+Recommended Offer:
+Postpaid Loyalty Pack
+
+Thank you,
+Telecom Team
+"
+CUST5989,64,1824,9,246,6.384,1791.3,False,False,False,True,False,True,True,False,1819.048999999999,4.951000000000931,True,Entertainment Add-on,"
+Hello CUST5989,
+
+Your next bill is expected to reduce.
+
+Recommended Offer:
+Entertainment Add-on
+
+Thank you,
+Telecom Team
+"
+CUST6088,52,293,3,1688,8.552,465.4,False,False,False,True,True,False,False,True,337.8364999999999,-44.83649999999989,True,Postpaid Loyalty Pack,"
+Hello CUST6088,
+
+Your next bill is expected to reduce.
+
+Recommended Offer:
+Postpaid Loyalty Pack
+
+Thank you,
+Telecom Team
+"
+CUST6266,20,1820,7,1131,8.724,2001.55,False,False,False,True,True,False,True,False,1863.888,-43.88799999999992,True,Postpaid Loyalty Pack,"
+Hello CUST6266,
+
+Your next bill is expected to reduce.
+
+Recommended Offer:
+Postpaid Loyalty Pack
+
+Thank you,
+Telecom Team
+"
+CUST6278,6,1580,2,556,3.4240000000000004,1500.8,True,False,False,False,True,False,True,False,1584.5159999999998,-4.515999999999849,True,Postpaid Loyalty Pack,"
+Hello CUST6278,
+
+Your next bill is expected to reduce.
+
+Recommended Offer:
+Postpaid Loyalty Pack
+
+Thank you,
+Telecom Team
+"
+CUST6295,1,1105,19,392,12.968,1102.6,False,False,True,False,False,True,True,False,1151.737500000001,-46.73750000000109,True,Entertainment Add-on,"
+Hello CUST6295,
+
+Your next bill is expected to reduce.
+
+Recommended Offer:
+Entertainment Add-on
+
+Thank you,
+Telecom Team
+"
+CUST6488,56,1367,3,307,3.028,1310.35,True,False,False,False,True,False,True,False,1343.237500000002,23.762499999998,True,Postpaid Loyalty Pack,"
+Hello CUST6488,
+
+Your next bill is expected to reduce.
+
+Recommended Offer:
+Postpaid Loyalty Pack
+
+Thank you,
+Telecom Team
+"
+CUST6534,20,1924,3,651,4.404,1833.55,False,False,True,False,False,True,True,False,1920.594999999999,3.4050000000011096,True,Entertainment Add-on,"
+Hello CUST6534,
+
+Your next bill is expected to reduce.
+
+Recommended Offer:
+Entertainment Add-on
+
+Thank you,
+Telecom Team
+"
+CUST6580,57,1044,6,1368,9.072,1047.4,False,False,True,False,True,False,False,True,1089.5239999999983,-45.523999999998296,True,Postpaid Loyalty Pack,"
+Hello CUST6580,
+
+Your next bill is expected to reduce.
+
+Recommended Offer:
+Postpaid Loyalty Pack
+
+Thank you,
+Telecom Team
+"
+CUST6612,25,895,9,628,7.911999999999999,911.4,False,True,False,False,True,False,False,True,943.8344999999996,-48.83449999999959,True,Postpaid Loyalty Pack,"
+Hello CUST6612,
+
+Your next bill is expected to reduce.
+
+Recommended Offer:
+Postpaid Loyalty Pack
+
+Thank you,
+Telecom Team
+"
+CUST6614,5,685,12,446,8.984,682.3,False,True,False,False,True,False,True,False,725.641000000001,-40.641000000000986,True,Postpaid Loyalty Pack,"
+Hello CUST6614,
+
+Your next bill is expected to reduce.
+
+Recommended Offer:
+Postpaid Loyalty Pack
+
+Thank you,
+Telecom Team
+"
+CUST6615,22,279,12,813,10.452,295.65,False,True,False,False,True,False,False,True,307.31450000000035,-28.31450000000035,True,Postpaid Loyalty Pack,"
+Hello CUST6615,
+
+Your next bill is expected to reduce.
+
+Recommended Offer:
+Postpaid Loyalty Pack
+
+Thank you,
+Telecom Team
+"
+CUST6762,5,1498,1,932,4.328,1504.6,False,False,False,True,False,True,False,True,1504.400500000001,-6.400500000001102,True,Bill Reminder + Discount,"
+Hello CUST6762,
+
+Your next bill is expected to reduce.
+
+Recommended Offer:
+Bill Reminder + Discount
+
+Thank you,
+Telecom Team
+"
+CUST6798,35,1204,8,725,7.699999999999999,1204.25,False,True,False,False,True,False,False,True,1236.919,-32.919000000000096,True,Postpaid Loyalty Pack,"
+Hello CUST6798,
+
+Your next bill is expected to reduce.
+
+Recommended Offer:
+Postpaid Loyalty Pack
+
+Thank you,
+Telecom Team
+"
+CUST6820,22,384,24,21,14.483999999999998,374.05,True,False,False,False,False,True,False,True,425.2170000000001,-41.2170000000001,True,Bill Reminder + Discount,"
+Hello CUST6820,
+
+Your next bill is expected to reduce.
+
+Recommended Offer:
+Bill Reminder + Discount
+
+Thank you,
+Telecom Team
+"
+CUST6840,20,1092,8,542,6.968,1039.1,True,False,False,False,False,True,True,False,1064.874000000001,27.125999999999067,True,Entertainment Add-on,"
+Hello CUST6840,
+
+Your next bill is expected to reduce.
+
+Recommended Offer:
+Entertainment Add-on
+
+Thank you,
+Telecom Team
+"
+CUST6842,66,1476,19,96,11.784,1450.8,True,False,False,False,True,False,True,False,1503.6240000000005,-27.62400000000048,True,Postpaid Loyalty Pack,"
+Hello CUST6842,
+
+Your next bill is expected to reduce.
+
+Recommended Offer:
+Postpaid Loyalty Pack
+
+Thank you,
+Telecom Team
+"
+CUST6867,65,1702,11,248,7.592,1692.4,False,True,False,False,False,True,True,False,1738.349999999998,-36.34999999999809,True,Entertainment Add-on,"
+Hello CUST6867,
+
+Your next bill is expected to reduce.
+
+Recommended Offer:
+Entertainment Add-on
+
+Thank you,
+Telecom Team
+"
+CUST6932,67,1133,6,462,5.448,1114.1,False,False,True,False,False,True,False,True,1149.505500000001,-16.505500000000893,True,Bill Reminder + Discount,"
+Hello CUST6932,
+
+Your next bill is expected to reduce.
+
+Recommended Offer:
+Bill Reminder + Discount
+
+Thank you,
+Telecom Team
+"
+CUST6994,25,1053,6,1591,9.964,1057.55,False,True,False,False,False,True,False,True,1102.4520000000014,-49.45200000000136,True,Bill Reminder + Discount,"
+Hello CUST6994,
+
+Your next bill is expected to reduce.
+
+Recommended Offer:
+Bill Reminder + Discount
+
+Thank you,
+Telecom Team
+"
+CUST6998,27,1686,9,207,6.228,1622.35,False,False,True,False,True,False,True,False,1719.872500000001,-33.87250000000108,True,Postpaid Loyalty Pack,"
+Hello CUST6998,
+
+Your next bill is expected to reduce.
+
+Recommended Offer:
+Postpaid Loyalty Pack
+
+Thank you,
+Telecom Team
+"
+CUST7022,46,1331,12,1121,11.684,1317.05,False,True,False,False,True,False,False,True,1355.1745000000012,-24.174500000001217,True,Postpaid Loyalty Pack,"
+Hello CUST7022,
+
+Your next bill is expected to reduce.
+
+Recommended Offer:
+Postpaid Loyalty Pack
+
+Thank you,
+Telecom Team
+"
+CUST7181,20,1336,2,399,2.7960000000000003,1231.95,False,False,True,False,True,False,True,False,1283.4664999999986,52.53350000000137,True,Postpaid Loyalty Pack,"
+Hello CUST7181,
+
+Your next bill is expected to reduce.
+
+Recommended Offer:
+Postpaid Loyalty Pack
+
+Thank you,
+Telecom Team
+"
+CUST7199,65,230,13,1395,13.38,244.75,False,False,False,True,False,True,False,True,271.959,-41.959,True,Bill Reminder + Discount,"
+Hello CUST7199,
+
+Your next bill is expected to reduce.
+
+Recommended Offer:
+Bill Reminder + Discount
+
+Thank you,
+Telecom Team
+"
+CUST7290,7,1407,1,1000,4.6,1371.0,False,False,True,False,True,False,False,True,1401.2295,5.770500000000084,True,Postpaid Loyalty Pack,"
+Hello CUST7290,
+
+Your next bill is expected to reduce.
+
+Recommended Offer:
+Postpaid Loyalty Pack
+
+Thank you,
+Telecom Team
+"
+CUST7351,27,1171,10,479,7.916,1168.95,False,False,False,True,True,False,False,True,1195.6634999999983,-24.663499999998294,True,Postpaid Loyalty Pack,"
+Hello CUST7351,
+
+Your next bill is expected to reduce.
+
+Recommended Offer:
+Postpaid Loyalty Pack
+
+Thank you,
+Telecom Team
+"
+CUST7466,59,481,4,37,2.548,424.85,True,False,False,False,True,False,True,False,459.6564999999994,21.343500000000574,True,Postpaid Loyalty Pack,"
+Hello CUST7466,
+
+Your next bill is expected to reduce.
+
+Recommended Offer:
+Postpaid Loyalty Pack
+
+Thank you,
+Telecom Team
+"
+CUST7499,41,615,15,508,11.032,622.4,False,True,False,False,False,True,True,False,647.3690000000006,-32.3690000000006,True,Entertainment Add-on,"
+Hello CUST7499,
+
+Your next bill is expected to reduce.
+
+Recommended Offer:
+Entertainment Add-on
+
+Thank you,
+Telecom Team
+"
+CUST7512,71,1868,2,277,2.308,1946.85,True,False,False,False,False,True,True,False,1915.792000000002,-47.79200000000196,True,Entertainment Add-on,"
+Hello CUST7512,
+
+Your next bill is expected to reduce.
+
+Recommended Offer:
+Entertainment Add-on
+
+Thank you,
+Telecom Team
+"
+CUST7532,21,1838,4,559,4.636,1844.95,False,True,False,False,False,True,False,True,1865.020500000002,-27.020500000001903,True,Bill Reminder + Discount,"
+Hello CUST7532,
+
+Your next bill is expected to reduce.
+
+Recommended Offer:
+Bill Reminder + Discount
+
+Thank you,
+Telecom Team
+"
+CUST7573,9,1264,2,1242,6.168,1191.1,False,False,False,True,True,False,False,True,1306.9065000000005,-42.906500000000506,True,Postpaid Loyalty Pack,"
+Hello CUST7573,
+
+Your next bill is expected to reduce.
+
+Recommended Offer:
+Postpaid Loyalty Pack
+
+Thank you,
+Telecom Team
+"
+CUST7594,4,1967,7,732,7.128,1958.6,False,False,False,True,True,False,True,False,1994.6880000000024,-27.688000000002376,True,Postpaid Loyalty Pack,"
+Hello CUST7594,
+
+Your next bill is expected to reduce.
+
+Recommended Offer:
+Postpaid Loyalty Pack
+
+Thank you,
+Telecom Team
+"
+CUST7620,11,1969,3,209,2.636,1904.45,False,False,False,True,False,True,False,True,1995.9815000000008,-26.98150000000078,True,Bill Reminder + Discount,"
+Hello CUST7620,
+
+Your next bill is expected to reduce.
+
+Recommended Offer:
+Bill Reminder + Discount
+
+Thank you,
+Telecom Team
+"
+CUST7719,12,283,5,639,5.556,196.95,False,False,False,True,False,True,False,True,263.9260000000002,19.073999999999785,True,Bill Reminder + Discount,"
+Hello CUST7719,
+
+Your next bill is expected to reduce.
+
+Recommended Offer:
+Bill Reminder + Discount
+
+Thank you,
+Telecom Team
+"
+CUST7758,10,1527,2,205,2.02,1470.25,True,False,False,False,False,True,False,True,1490.1295,36.87049999999999,True,Bill Reminder + Discount,"
+Hello CUST7758,
+
+Your next bill is expected to reduce.
+
+Recommended Offer:
+Bill Reminder + Discount
+
+Thank you,
+Telecom Team
+"
+CUST7772,25,304,4,444,4.176,308.2,False,False,False,True,True,False,False,True,301.84149999999994,2.1585000000000605,True,Postpaid Loyalty Pack,"
+Hello CUST7772,
+
+Your next bill is expected to reduce.
+
+Recommended Offer:
+Postpaid Loyalty Pack
+
+Thank you,
+Telecom Team
+"
+CUST7839,30,1563,2,987,5.148,1535.35,False,False,True,False,False,True,False,True,1571.6710000000014,-8.671000000001413,True,Bill Reminder + Discount,"
+Hello CUST7839,
+
+Your next bill is expected to reduce.
+
+Recommended Offer:
+Bill Reminder + Discount
+
+Thank you,
+Telecom Team
+"
+CUST7851,10,406,16,122,10.088,369.1,False,False,False,True,False,True,False,True,409.7639999999996,-3.763999999999612,True,Bill Reminder + Discount,"
+Hello CUST7851,
+
+Your next bill is expected to reduce.
+
+Recommended Offer:
+Bill Reminder + Discount
+
+Thank you,
+Telecom Team
+"
+CUST7864,31,1997,9,336,6.744,1977.8,False,False,True,False,True,False,False,True,2001.7789999999973,-4.778999999997268,True,Postpaid Loyalty Pack,"
+Hello CUST7864,
+
+Your next bill is expected to reduce.
+
+Recommended Offer:
+Postpaid Loyalty Pack
+
+Thank you,
+Telecom Team
+"
+CUST7883,27,1095,3,1553,8.012,1087.65,False,False,True,False,True,False,True,False,1099.4769999999985,-4.4769999999984975,True,Postpaid Loyalty Pack,"
+Hello CUST7883,
+
+Your next bill is expected to reduce.
+
+Recommended Offer:
+Postpaid Loyalty Pack
+
+Thank you,
+Telecom Team
+"
+CUST8077,45,1078,18,918,14.472,1066.9,False,True,False,False,False,True,True,False,1099.811499999999,-21.811499999998887,True,Entertainment Add-on,"
+Hello CUST8077,
+
+Your next bill is expected to reduce.
+
+Recommended Offer:
+Entertainment Add-on
+
+Thank you,
+Telecom Team
+"
+CUST8089,30,1500,6,299,4.795999999999999,1394.95,False,True,False,False,True,False,False,True,1454.1130000000005,45.88699999999949,True,Postpaid Loyalty Pack,"
+Hello CUST8089,
+
+Your next bill is expected to reduce.
+
+Recommended Offer:
+Postpaid Loyalty Pack
+
+Thank you,
+Telecom Team
+"
+CUST8102,9,1819,3,1007,5.828,1857.35,False,True,False,False,True,False,True,False,1866.536500000002,-47.53650000000198,True,Postpaid Loyalty Pack,"
+Hello CUST8102,
+
+Your next bill is expected to reduce.
+
+Recommended Offer:
+Postpaid Loyalty Pack
+
+Thank you,
+Telecom Team
+"
+CUST8196,12,1326,1,806,3.824,1298.3,True,False,False,False,False,True,False,True,1298.0630000000017,27.936999999998307,True,Bill Reminder + Discount,"
+Hello CUST8196,
+
+Your next bill is expected to reduce.
+
+Recommended Offer:
+Bill Reminder + Discount
+
+Thank you,
+Telecom Team
+"
+CUST8216,26,1432,8,346,6.184,1416.3,False,True,False,False,False,True,True,False,1473.4480000000003,-41.44800000000032,True,Entertainment Add-on,"
+Hello CUST8216,
+
+Your next bill is expected to reduce.
+
+Recommended Offer:
+Entertainment Add-on
+
+Thank you,
+Telecom Team
+"
+CUST8357,10,245,9,376,6.904,230.8,True,False,False,False,True,False,False,True,253.8584999999997,-8.858499999999708,True,Postpaid Loyalty Pack,"
+Hello CUST8357,
+
+Your next bill is expected to reduce.
+
+Recommended Offer:
+Postpaid Loyalty Pack
+
+Thank you,
+Telecom Team
+"
+CUST8373,54,1814,5,504,5.016,1789.2,False,False,False,True,False,True,False,True,1828.949500000001,-14.94950000000108,True,Bill Reminder + Discount,"
+Hello CUST8373,
+
+Your next bill is expected to reduce.
+
+Recommended Offer:
+Bill Reminder + Discount
+
+Thank you,
+Telecom Team
+"
+CUST8407,36,599,21,134,13.136,587.7,False,False,False,True,True,False,True,False,611.5644999999993,-12.56449999999927,True,Postpaid Loyalty Pack,"
+Hello CUST8407,
+
+Your next bill is expected to reduce.
+
+Recommended Offer:
+Postpaid Loyalty Pack
+
+Thank you,
+Telecom Team
+"
+CUST8420,54,1364,17,336,11.544,1363.8,True,False,False,False,False,True,False,True,1406.8915000000002,-42.89150000000018,True,Bill Reminder + Discount,"
+Hello CUST8420,
+
+Your next bill is expected to reduce.
+
+Recommended Offer:
+Bill Reminder + Discount
+
+Thank you,
+Telecom Team
+"
+CUST8443,60,1861,6,788,6.752000000000001,1828.4,True,False,False,False,False,True,False,True,1847.262499999998,13.737500000002001,True,Bill Reminder + Discount,"
+Hello CUST8443,
+
+Your next bill is expected to reduce.
+
+Recommended Offer:
+Bill Reminder + Discount
+
+Thank you,
+Telecom Team
+"
+CUST8457,61,1872,5,1288,8.152000000000001,1879.4,False,False,True,False,True,False,True,False,1896.0204999999976,-24.020499999997583,True,Postpaid Loyalty Pack,"
+Hello CUST8457,
+
+Your next bill is expected to reduce.
+
+Recommended Offer:
+Postpaid Loyalty Pack
+
+Thank you,
+Telecom Team
+"
+CUST8559,60,1926,23,580,16.119999999999997,1943.0,False,True,False,False,False,True,False,True,1972.767,-46.76700000000005,True,Bill Reminder + Discount,"
+Hello CUST8559,
+
+Your next bill is expected to reduce.
+
+Recommended Offer:
+Bill Reminder + Discount
+
+Thank you,
+Telecom Team
+"
+CUST8631,15,646,9,187,6.148,600.35,False,False,False,True,False,True,False,True,636.2414999999995,9.758500000000481,True,Bill Reminder + Discount,"
+Hello CUST8631,
+
+Your next bill is expected to reduce.
+
+Recommended Offer:
+Bill Reminder + Discount
+
+Thank you,
+Telecom Team
+"
+CUST8694,66,1872,5,892,6.568,1857.6,False,True,False,False,True,False,True,False,1888.9289999999985,-16.928999999998496,True,Postpaid Loyalty Pack,"
+Hello CUST8694,
+
+Your next bill is expected to reduce.
+
+Recommended Offer:
+Postpaid Loyalty Pack
+
+Thank you,
+Telecom Team
+"
+CUST8695,13,1959,12,375,8.7,1967.75,True,False,False,False,False,True,False,True,1988.889,-29.888999999999896,True,Bill Reminder + Discount,"
+Hello CUST8695,
+
+Your next bill is expected to reduce.
+
+Recommended Offer:
+Bill Reminder + Discount
+
+Thank you,
+Telecom Team
+"
+CUST8833,46,1543,4,1022,6.488,1540.1,False,False,False,True,True,False,False,True,1574.4055000000017,-31.405500000001666,True,Postpaid Loyalty Pack,"
+Hello CUST8833,
+
+Your next bill is expected to reduce.
+
+Recommended Offer:
+Postpaid Loyalty Pack
+
+Thank you,
+Telecom Team
+"
+CUST8847,64,1060,10,481,7.924,1020.05,False,False,True,False,False,True,False,True,1109.451999999999,-49.45199999999909,True,Bill Reminder + Discount,"
+Hello CUST8847,
+
+Your next bill is expected to reduce.
+
+Recommended Offer:
+Bill Reminder + Discount
+
+Thank you,
+Telecom Team
+"
+CUST8901,52,820,2,1107,5.628,780.35,True,False,False,False,False,True,True,False,830.1770000000008,-10.177000000000817,True,Entertainment Add-on,"
+Hello CUST8901,
+
+Your next bill is expected to reduce.
+
+Recommended Offer:
+Entertainment Add-on
+
+Thank you,
+Telecom Team
+"
+CUST8909,20,313,9,1187,10.148,331.35,True,False,False,False,False,True,False,True,357.7409999999997,-44.7409999999997,True,Bill Reminder + Discount,"
+Hello CUST8909,
+
+Your next bill is expected to reduce.
+
+Recommended Offer:
+Bill Reminder + Discount
+
+Thank you,
+Telecom Team
+"
+CUST9025,28,1752,6,513,5.651999999999999,1744.65,False,True,False,False,True,False,False,True,1774.562999999998,-22.562999999998056,True,Postpaid Loyalty Pack,"
+Hello CUST9025,
+
+Your next bill is expected to reduce.
+
+Recommended Offer:
+Postpaid Loyalty Pack
+
+Thank you,
+Telecom Team
+"
+CUST9045,69,381,1,517,2.668,393.85,False,True,False,False,True,False,True,False,422.5699999999994,-41.569999999999425,True,Postpaid Loyalty Pack,"
+Hello CUST9045,
+
+Your next bill is expected to reduce.
+
+Recommended Offer:
+Postpaid Loyalty Pack
+
+Thank you,
+Telecom Team
+"
+CUST9175,8,816,1,1725,7.5,800.25,False,False,False,True,False,True,True,False,817.5105000000003,-1.5105000000003201,True,Entertainment Add-on,"
+Hello CUST9175,
+
+Your next bill is expected to reduce.
+
+Recommended Offer:
+Entertainment Add-on
+
+Thank you,
+Telecom Team
+"
+CUST9205,12,309,12,322,8.488,256.1,False,True,False,False,True,False,True,False,287.82599999999974,21.174000000000262,True,Postpaid Loyalty Pack,"
+Hello CUST9205,
+
+Your next bill is expected to reduce.
+
+Recommended Offer:
+Postpaid Loyalty Pack
+
+Thank you,
+Telecom Team
+"
+CUST9270,28,826,19,597,13.788,846.85,False,False,False,True,False,True,True,False,874.5075000000004,-48.50750000000039,True,Entertainment Add-on,"
+Hello CUST9270,
+
+Your next bill is expected to reduce.
+
+Recommended Offer:
+Entertainment Add-on
+
+Thank you,
+Telecom Team
+"
+CUST9405,60,1255,8,1035,8.94,1229.75,False,False,True,False,True,False,False,True,1285.958,-30.958000000000084,True,Postpaid Loyalty Pack,"
+Hello CUST9405,
+
+Your next bill is expected to reduce.
+
+Recommended Offer:
+Postpaid Loyalty Pack
+
+Thank you,
+Telecom Team
+"
+CUST9415,28,663,9,16,5.464,589.8,True,False,False,False,True,False,False,True,632.0115000000006,30.988499999999362,True,Postpaid Loyalty Pack,"
+Hello CUST9415,
+
+Your next bill is expected to reduce.
+
+Recommended Offer:
+Postpaid Loyalty Pack
+
+Thank you,
+Telecom Team
+"
+CUST9418,7,1678,2,1424,6.896000000000001,1698.2,True,False,False,False,True,False,False,True,1722.866000000001,-44.866000000000895,True,Postpaid Loyalty Pack,"
+Hello CUST9418,
+
+Your next bill is expected to reduce.
+
+Recommended Offer:
+Postpaid Loyalty Pack
+
+Thank you,
+Telecom Team
+"
+CUST9466,5,631,14,619,10.876,634.95,False,True,False,False,True,False,False,True,672.5264999999994,-41.52649999999937,True,Postpaid Loyalty Pack,"
+Hello CUST9466,
+
+Your next bill is expected to reduce.
+
+Recommended Offer:
+Postpaid Loyalty Pack
+
+Thank you,
+Telecom Team
+"
+CUST9492,12,1303,2,2036,9.344,1264.8,False,False,False,True,False,True,False,True,1305.2640000000015,-2.264000000001488,True,Bill Reminder + Discount,"
+Hello CUST9492,
+
+Your next bill is expected to reduce.
+
+Recommended Offer:
+Bill Reminder + Discount
+
+Thank you,
+Telecom Team
+"
+CUST9512,58,1972,13,908,11.432,1995.4,False,False,True,False,False,True,True,False,2012.9549999999972,-40.9549999999972,True,Entertainment Add-on,"
+Hello CUST9512,
+
+Your next bill is expected to reduce.
+
+Recommended Offer:
+Entertainment Add-on
+
+Thank you,
+Telecom Team
+"
+CUST9544,35,1328,5,1820,10.28,1334.0,False,False,True,False,True,False,False,True,1365.818,-37.817999999999984,True,Postpaid Loyalty Pack,"
+Hello CUST9544,
+
+Your next bill is expected to reduce.
+
+Recommended Offer:
+Postpaid Loyalty Pack
+
+Thank you,
+Telecom Team
+"
+CUST9561,59,661,12,1171,11.884,652.55,False,True,False,False,False,True,True,False,692.9640000000011,-31.96400000000108,True,Entertainment Add-on,"
+Hello CUST9561,
+
+Your next bill is expected to reduce.
+
+Recommended Offer:
+Entertainment Add-on
+
+Thank you,
+Telecom Team
+"
+CUST9614,59,1103,1,1509,6.636,1062.45,True,False,False,False,True,False,True,False,1099.253999999999,3.746000000001004,True,Postpaid Loyalty Pack,"
+Hello CUST9614,
+
+Your next bill is expected to reduce.
+
+Recommended Offer:
+Postpaid Loyalty Pack
+
+Thank you,
+Telecom Team
+"
+CUST9622,5,396,6,963,7.452,379.15,True,False,False,False,True,False,False,True,432.6750000000005,-36.67500000000052,True,Postpaid Loyalty Pack,"
+Hello CUST9622,
+
+Your next bill is expected to reduce.
+
+Recommended Offer:
+Postpaid Loyalty Pack
+
+Thank you,
+Telecom Team
+"
+CUST9637,50,243,9,994,9.376,211.7,False,False,True,False,True,False,False,True,270.4655000000002,-27.46550000000019,True,Postpaid Loyalty Pack,"
+Hello CUST9637,
+
+Your next bill is expected to reduce.
+
+Recommended Offer:
+Postpaid Loyalty Pack
+
+Thank you,
+Telecom Team
+"
+CUST9748,34,304,10,907,9.628,258.35,False,True,False,False,False,True,False,True,308.5849999999997,-4.584999999999695,True,Bill Reminder + Discount,"
+Hello CUST9748,
+
+Your next bill is expected to reduce.
+
+Recommended Offer:
+Bill Reminder + Discount
+
+Thank you,
+Telecom Team
+"
+CUST9762,15,1629,13,656,10.424,1642.8,True,False,False,False,False,True,True,False,1671.5659999999996,-42.565999999999576,True,Entertainment Add-on,"
+Hello CUST9762,
+
+Your next bill is expected to reduce.
+
+Recommended Offer:
+Entertainment Add-on
+
+Thank you,
+Telecom Team
+"
+CUST9812,36,1869,12,488,9.152,1877.4,False,False,True,False,True,False,False,True,1896.5929999999976,-27.592999999997573,True,Postpaid Loyalty Pack,"
+Hello CUST9812,
+
+Your next bill is expected to reduce.
+
+Recommended Offer:
+Postpaid Loyalty Pack
+
+Thank you,
+Telecom Team
+"
+CUST9865,13,984,2,484,3.136,919.2,True,False,False,False,True,False,False,True,992.3829999999988,-8.382999999998788,True,Postpaid Loyalty Pack,"
+Hello CUST9865,
+
+Your next bill is expected to reduce.
+
+Recommended Offer:
+Postpaid Loyalty Pack
+
+Thank you,
+Telecom Team
+"
+CUST9868,5,792,1,1936,8.344000000000001,805.8,False,False,False,True,False,True,True,False,823.6365000000012,-31.636500000001206,True,Entertainment Add-on,"
+Hello CUST9868,
+
+Your next bill is expected to reduce.
+
+Recommended Offer:
+Entertainment Add-on
+
+Thank you,
+Telecom Team
+"
+CUST9910,36,1865,8,1246,9.784,1869.3,False,True,False,False,False,True,False,True,1884.204999999999,-19.204999999999018,True,Bill Reminder + Discount,"
+Hello CUST9910,
+
+Your next bill is expected to reduce.
+
+Recommended Offer:
+Bill Reminder + Discount
+
+Thank you,
+Telecom Team
+"
