@@ -1,91 +1,87 @@
 import streamlit as st
 import pandas as pd
 
-st.set_page_config(
-    page_title="Telecom Bill Prediction",
-    layout="wide"
-)
-
-df = pd.read_csv(
+phase1 = pd.read_csv(
     "outputs/final_customer_scorecard.csv"
 )
 
-drop_df = df[
-    df["drop_flag"] == True
-]
+phase2 = pd.read_csv(
+    "outputs/phase2_outreach.csv"
+)
 
 st.title(
-    "📡 Telecom Bill Prediction Dashboard"
+    "📡 Telecom Enterprise Dashboard"
 )
 
-c1,c2,c3 = st.columns(3)
-
-c1.metric(
-    "Customers",
-    len(df)
+tab1, tab2 = st.tabs(
+    [
+        "Phase 1 - IBM Telco",
+        "Phase 2 - Enterprise"
+    ]
 )
 
-c2.metric(
-    "Bill Drop Customers",
-    len(drop_df)
-)
+with tab1:
 
-c3.metric(
-    "Offers Generated",
-    df["offer"].nunique()
-)
+    st.header(
+        "IBM Prototype"
+    )
 
-st.subheader(
-    "Customer Scorecard"
-)
+    st.metric(
+        "Customers",
+        len(phase1)
+    )
 
-st.dataframe(
-    df.head(20),
-    use_container_width=True
-)
+    st.metric(
+        "Bill Drop Customers",
+        phase1["drop_flag"].sum()
+    )
 
-st.subheader(
-    "Bill Drop Customers"
-)
+    st.dataframe(
+        phase1.head(20)
+    )
 
-st.dataframe(
-    drop_df.head(20),
-    use_container_width=True
-)
+with tab2:
 
-st.bar_chart(
-    df["offer"].value_counts()
-)
+    st.header(
+        "Enterprise Telecom"
+    )
 
-st.subheader(
-    "Generated Email"
-)
+    st.metric(
+        "Enterprise Customers",
+        10000
+    )
 
-customer = st.selectbox(
-    "Customer",
-    df["customerID"]
-)
+    st.metric(
+        "Outreach Customers",
+        len(phase2)
+    )
 
-selected = df[
-    df["customerID"]
-    == customer
-]
+    st.bar_chart(
+        phase2["offer"].value_counts()
+    )
 
-st.text_area(
-    "Email",
-    selected[
-        "email"
-    ].values[0],
-    height=120
-)
+    customer = st.selectbox(
+        "Select Customer",
+        phase2["customer_id"]
+    )
 
-csv = df.to_csv(
-    index=False
-)
+    row = phase2[
+        phase2["customer_id"]
+        == customer
+    ].iloc[0]
 
-st.download_button(
-    "Download Scorecard CSV",
-    csv,
-    "customer_scorecard.csv",
-    "text/csv"
-)
+    st.write(
+        "Predicted Bill:",
+        row["predicted_bill"]
+    )
+
+    st.write(
+        "Offer:",
+        row["offer"]
+    )
+
+    st.text_area(
+        "Generated Email",
+        row["email"],
+        height=200
+    )
